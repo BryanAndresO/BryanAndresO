@@ -1,12 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bryan%20Andres%20O&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=51&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bryan%20Andres%20O&fontSize=42&fontAlignY=30&desc=Desarrollador%20Full%20Stack%20%7C%20Entusiasta%20de%20la%20Tecnología&descSize=18&descAlignY=51&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+Amazing+Projects+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1;Let's+Code+Together!+%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=¡Bienvenido+a+mi+Perfil+de+GitHub!+👋;Construyendo+Proyectos+Increíbles+🚀;Siempre+Aprendiendo+Cosas+Nuevas+💡;¡Programemos+Juntos!+💻)](https://git.io/typing-svg)
 
 </div>
+
+<br>
+
+## 👋 ¡Hola!, soy Bryan
+
+Soy un apasionado por la tecnología y la música. Estoy próximo a ser un Ingeniero en TI y espero abrirme en este mundo que cada vez crece más en el desarrollo tecnológico.
+
+**Conóceme:**
+
+* 🌎 Soy un desarrollador full-stack junior de [Quito, Ecuador](https://youtu.be/zUrDQrhtVrY?si=jAzsM5gwtPFJoBwI)
+* 💻 Enfocado en crear aplicaciones web escalables
+* 🎵 Amante de la música y la tecnología
+* 🚀 Siempre aprendiendo nuevas tecnologías
 
 <br>
 
@@ -28,14 +41,14 @@ const bryan = {
         devOps: ["Docker", "Git", "GitHub Actions"],
         tools: ["VS Code", "Postman", "Figma"]
     },
-    currentFocus: "Desarrollo de aplicacion web escalable",
-    funFact: "Depuro con console.log() y no estoy avergonzado 🐛"
+    enfoqueActual: "Desarrollo de aplicaciones web escalables",
+    datoInteresante: "Depuro con console.log() y no me avergüenza 🐛"
 };
 ```
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
@@ -57,13 +70,13 @@ const bryan = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Databases
+### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Tools & Others
+### Herramientas y Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -75,7 +88,7 @@ const bryan = {
 
 <br>
 
-## 📊 GitHub Statistics
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BryanAndresO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
@@ -94,6 +107,10 @@ const bryan = {
 
 ## 🎯 Proyectos Destacados
 
+<!--
+Sección de proyectos destacados - Por actualizar
+
+
 <div align="center">
 
 <a href="https://github.com/BryanAndresO/proyecto-1">
@@ -103,12 +120,13 @@ const bryan = {
 <a href="https://github.com/BryanAndresO/proyecto-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanAndresO&repo=proyecto-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF" />
 </a>
+-->
 
 </div>
 
 <br>
 
-## 📈 Contribution Graph
+## 📈 Gráfico de Contribuciones
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanAndresO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=FFFFFF" width="95%"/>
@@ -116,7 +134,7 @@ const bryan = {
 
 <br>
 
-## 🤝 Conecta Conmigo
+## 🤝 Conectemos
 
 <div align="center">
 
@@ -129,7 +147,7 @@ const bryan = {
 
 <br>
 
-## 💭 Quote of the Day
+## 💭 Frase del Día
 
 <div align="center">
 
@@ -146,7 +164,7 @@ const bryan = {
 ¿Tienes algún proyecto interesante o quieres colaborar? **¡No dudes en contactarme!**
 
 📧 **Email:** bryanfamiliat@gmail.com
-💼 **LinkedIn:** [Bryan Andres O](https://linkedin.com/in/tu-usuario)
+💼 **LinkedIn:** [Bryan Andres Ortiz Tomalo](https://www.linkedin.com/in/bryan-andres-ortiz-tomalo-a78062271)
 
 </div>
 
@@ -156,13 +174,13 @@ const bryan = {
 
 <div align="center">
 
-### 👀 Profile Views
+### 👀 Visitas al Perfil
 
 ![Visitor Count](https://profile-counter.glitch.me/BryanAndresO/count.svg)
 
 <br>
 
-### ⭐ Show some love by starring some repositories!
+### ⭐ ¡Muestra algo de amor dando estrellas a los repositorios!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 

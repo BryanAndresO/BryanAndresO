@@ -28,7 +28,7 @@ const bryan = {
         devOps: ["Docker", "Git", "GitHub Actions"],
         tools: ["VS Code", "Postman", "Figma"]
     },
-    currentFocus: "Desarrollo de aplicacion web escalable",
+    currentFocus: "Desarrollo de aplicación web escalable",
     funFact: "Depuro con console.log() y no estoy avergonzado 🐛"
 };
 ```
@@ -146,7 +146,7 @@ const bryan = {
 ¿Tienes algún proyecto interesante o quieres colaborar? **¡No dudes en contactarme!**
 
 📧 **Email:** bryanfamiliat@gmail.com
-💼 **LinkedIn:** [Bryan Andres O](https://linkedin.com/in/tu-usuario)
+💼 **LinkedIn:** [Bryan Andres O](https://linkedin.com/in/bryan-andres-ortiz-tomalo-a78062271)
 
 </div>
 

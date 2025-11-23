@@ -41,8 +41,8 @@ const bryan = {
         devOps: ["Docker", "Git", "GitHub Actions"],
         tools: ["VS Code", "Postman", "Figma"]
     },
-    enfoqueActual: "Desarrollo de aplicaciones web escalables",
-    datoInteresante: "Depuro con console.log() y no me avergüenza 🐛"
+    currentFocus: "Desarrollo de aplicación web escalable",
+    funFact: "Depuro con console.log() y no estoy avergonzado 🐛"
 };
 ```
 
@@ -164,7 +164,7 @@ Sección de proyectos destacados - Por actualizar
 ¿Tienes algún proyecto interesante o quieres colaborar? **¡No dudes en contactarme!**
 
 📧 **Email:** bryanfamiliat@gmail.com
-💼 **LinkedIn:** [Bryan Andres Ortiz Tomalo](https://www.linkedin.com/in/bryan-andres-ortiz-tomalo-a78062271)
+💼 **LinkedIn:** [Bryan Andres O](https://linkedin.com/in/bryan-andres-ortiz-tomalo-a78062271)
 
 </div>
 
